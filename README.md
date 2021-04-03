@@ -1,6 +1,6 @@
 # iRacerStats
 
-Quick and dirty script to export your iRacing data, and extract some statistics out of it
+Quick and dirty script to export iRacing data, and extract some statistics out of it
 
 ## Installation
 
